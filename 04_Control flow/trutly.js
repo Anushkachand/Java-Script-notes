@@ -6,11 +6,11 @@ if (userEmail) {
     console.log("Don't have user email");
 }
 
-// falsy values
+// falsy values = mtlb isha false value mana jatha h 
 
-// false, 0, -0, BigInt 0n, "", null, undefined, NaN
+// false, 0, -0, BigInt 0n, "", null, undefined, NaN 
 
-//truthy values
+//truthy values = { value ko true mana jata h}
 // "0", 'false', " ", [], {}, function(){}
 
 // if (userEmail.length === 0) {
